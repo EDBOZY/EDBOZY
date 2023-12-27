@@ -5,7 +5,6 @@ MERN Stack Developer and Full Stack React Native Developer
 ----------------------------------------------------------
 
 * 🌍  I'm based in Kerala, India
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio-two-henna-18.vercel.app/)
 * ✉️  You can contact me at [bentomabey12@gmail.com](mailto:bentomabey12@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on unique projects and cybersecurity related stuffs
